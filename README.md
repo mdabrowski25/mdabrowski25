@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Angular + Spring, Node.js projects**
 
-- 👨‍💻 All of my projects are available at [coming as soon as Docker knowledge](coming as soon as Docker knowledge)
+- 👨‍💻 All of my projects are available at -> coming as soon as Docker knowledge
 
-- 📝 I regularly write articles on [still working on content (but its deployed)](still working on content (but its deployed))
+- 📝 I regularly write articles on -> still working on content (but its deployed)
 
 - 💬 Ask me about **Java, Angular, Typescript, HTML**
 
