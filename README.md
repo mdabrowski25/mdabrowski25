@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Aspiring to be fullstack, but junior is the right word for now (lots of caffeine remaining)</h3>
 
-- 🔭 I’m currently working on [Hotel SaaS project](https://github.com/Wojtas93/frontend)
+- 🔭 I’m currently working on [Hotel SaaS project](https://github.com/mdabrowski25/angular-portfolio)
 
 - 🌱 I’m currently learning **Angular (RxJS)**
 
