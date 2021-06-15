@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **m.dabrowski2511@gmail.com**
 
-- 📄 Know about my experiences [CV!](https://drive.google.com/file/d/1XkOBLKfuMjkG5e3RFvVQ7gGvXuHHcEBy/view?usp=sharing)
+- 📄 Know about my experiences: Click linkedIn below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
