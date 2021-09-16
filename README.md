@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Angular skills ---> [site](https://ziemniaki-f1-liga.netlify.app/) || [github Repo](https://github.com/mdabrowski25/f1-league-project-front)
 
-- 🌱 I’m currently learning **Angular (RxJS)**
+- 🌱 I’m currently learning **Svelte.js**
 
 - 👯 I’m looking to collaborate on **Angular + Spring, Node.js projects**
 
