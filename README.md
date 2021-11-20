@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Aspiring to be fullstack, but junior is the right word for now (lots of caffeine remaining)</h3>
 
-- 🔭 I’m currently working on my Angular skills ---> [site](https://ziemniaki-f1-liga.netlify.app/) || [github Repo](https://github.com/mdabrowski25/f1-league-project-front)
+- 🔭 I’m currently working on my Angular skills
 
-- 🌱 I’m currently learning **Svelte.js**
+- 🌱 I’m currently learning Angular NgRx
 
 - 👯 I’m looking to collaborate on **Angular + Spring, Node.js projects**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Angular, Typescript, HTML**
 
-- 📫 How to reach me **m.dabrowski2511@gmail.com**
+- 📫 How to reach me **m.dabrowski97@o2.pl**
 
 - 📄 Know about my experiences: Click linkedIn below
 
