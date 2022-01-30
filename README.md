@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Aspiring to be fullstack, but junior is the right word for now (lots of caffeine remaining)</h3>
 
-- 🔭 I’m currently working on my Angular skills
+- 🔭 I’m currently working on private app project (I will paste the link later, cant really share the idea, but its Angular / Node.js / MongoDB project in Azure DevOps env)
 
-- 🌱 I’m currently learning Angular NgRx
+- 🌱 I’m currently maintaining contact with Java, consistantly using JS/HTML/CSS, learning Python and Machine Learning with this lang
 
-- 👯 I’m looking to collaborate on **Angular + Spring, Node.js projects**
+- 👨‍💻 All of my projects are available at -> site isn't created yet, but its on my list
 
-- 👨‍💻 All of my projects are available at -> coming as soon as Docker knowledge
+- 📝 I regularly write articles on -> time is money so no blog yet
 
-- 📝 I regularly write articles on -> still working on content (but its deployed)
-
-- 💬 Ask me about **Java, Angular, Typescript, HTML**
+- 💬 Ask me about **HTML, JS, CSS, Java, Angular, Typescript**
 
 - 📫 How to reach me **m.dabrowski97@o2.pl**
 
