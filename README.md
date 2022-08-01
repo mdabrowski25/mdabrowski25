@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on private app project (I will paste the link later, cant really share the idea, but its Angular / Node.js / MongoDB project in Azure DevOps env)
 
-- 🌱 I’m currently grinding c# alongside with React, Angular, Vue
+- 🌱 I’m currently grinding C# alongside with React, Angular, Vue
 
 - 👨‍💻 All of my projects are available at -> site isn't created yet, but its on my list
 
