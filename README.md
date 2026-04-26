@@ -1,77 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">Aspiring to be fullstack, but junior is the right word for now (lots of caffeine remaining)</h3>
+# Hi, I'm Mateusz Dąbrowski
 
-- 🔭 I’m currently working on private app project (I will paste the link later, cant really share the idea, but its Angular / Node.js / MongoDB project in Azure DevOps env)
+### Fullstack Developer at PwC Poland
 
-- 🌱 I’m currently grinding C# alongside with React, Angular, Vue
+I build practical full-stack systems, automation pipelines, and internal tools that turn repetitive work into reliable software.
+My work sits somewhere between clean application code, process automation, systems integration, and the occasional "this should not be manual anymore" moment.
 
-- 👨‍💻 All of my projects are available at -> site isn't created yet, but its on my list
+## What I do
 
-- 📝 I regularly write articles on -> time is money so no blog yet
+- Full-stack development with `.NET`, `C#`, `JavaScript`, `TypeScript`, `Angular`, `React`, `Vue`, and `Node.js`
+- Workflow automation, document processing, API integrations, and reporting pipelines
+- Frontend-heavy business tools, including web apps and calculators built around expert domain logic
+- Cloud and delivery work around `Azure`, `Azure DevOps`, Dockerized services, and practical production workflows
 
-- 💬 Ask me about **HTML, JS, CSS, Java, Angular, React, .NET, Typescript**
+## Current Focus
 
-- 📫 How to reach me **m.dabrowski97@o2.pl**
+I'm developing [mdab.it](https://mdab.it), my automation and systems integration consultancy.
+The goal is simple: help businesses stop wasting time on repetitive operations by connecting tools, automating document flows, and building custom software where off-the-shelf tools are not enough.
 
-- 📄 Know about my experiences: Click linkedIn below
+Recent work includes an invoicing automation pipeline that:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mateusz-dabrowski25" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="mateusz-dabrowski-46284117b" height="30" width="40" /></a>
+- extracts and validates purchase order data
+- generates invoices through APIs
+- archives XML and PDF documents automatically
+- connects with KSeF, Poland's government e-invoicing platform
+- uses a Dockerized Express microservice and my `@mdab25/ksef-pdf` package to convert KSeF XML into readable PDFs
+
+## A Few Highlights
+
+- Fullstack Developer at `PwC Poland`
+- Bachelor's degree in Information Technology from `Polsko-Japońska Akademia Technik Komputerowych`
+- Microsoft Certified: `Azure Fundamentals`
+- PwC CTech `Rookie of the Year`
+- Contributed React frontend work to a PwC and Microsoft digital transformation project
+- Built and updated Vue.js calculators for PwC business and tax tools
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,vue,nodejs,express,mongodb,mysql,html,css,bootstrap,azure,docker,git,github,postman" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-             alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-             alt="css3"
-             width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-             alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-             width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-             alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-             alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-             height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-             alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://angular.io/" target="_blank">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg"
-             alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg"
-             alt="dotnet" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-             alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
-             alt="azure" width="40" height="40"/>
-    </a>
-</p>
+## How I Think About Software
+
+I like software that solves boring problems well.
+The best systems are usually not the loudest ones: they are reliable, understandable, easy to extend, and quietly save people hours of work.
+
+I care about clean code, scalable systems, and user-centered design, but I care just as much about building things that survive contact with real workflows.
+
+## Connect
+
+- Website: [mdab.it](https://mdab.it)
+- LinkedIn: [mateusz-dabrowski25](https://www.linkedin.com/in/mateusz-dabrowski25)
+- Email: [m.dabrowski97@o2.pl](mailto:m.dabrowski97@o2.pl)
+
+Some of my client and company work is private or under NDA, so this profile focuses on what I can share publicly.
